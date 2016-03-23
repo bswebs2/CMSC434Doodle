@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoodleApp</string>
+    <string name="clear">Clear</string>
+    <string name="change">Change Color</string>
+</resources>
